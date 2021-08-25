@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "KphpTest\\": "src/KphpTest/"
+        }
+    },
+    "require-dev": {
+        "vkcom/kphp-polyfills": "^1.0"
+    }
+}
